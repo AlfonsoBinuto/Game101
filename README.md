@@ -1,6 +1,6 @@
 # Game101
 
-Un petit jeu développé en Python (ou autre langage) où plusieurs joueurs peuvent interagir sans attendre leur tour. Le gameplay est fluide et continu, sans système de tour par tour.
+Un petit jeu développé en Python où deux joueurs s affrontent. Le gameplay est fluide et continu.
 
 ## 🎮 Description
 
